@@ -1,4 +1,4 @@
-### eVote - Aplicativo de votação online  é show
+### eVote - Aplicativo de votação online 
 
 ---
 
